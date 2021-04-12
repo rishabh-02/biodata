@@ -16,31 +16,15 @@
 <br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
-## <p align="center"><h4 align="center"><samp> An IoT Developer, An Open Source Contributor, Cloud Architecture ☁  & A Competitive Programmer </samp></h4></p>
-
-<div>
-<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
-  <br>
-
-- 👷 <samp>Currently pursuing B.Tech in Electrical Engrineering(2018-2022) from National Institute of Technology Raipur
-- 🔭 <samp>Diploma in Computer Applications from C.V.Raman University(2020) - 83.85%
-- ✍🏻 <samp>Core Member of IEEE Bombay Section Technical and Professional Committee 
-- 🥇 <samp>Runner Up Robothon_1.0(March 2020) || Runner Up Apscript Hackathon(Febrruary 2021) || E-Ujjwala Hackathon Finalists(August 2020) 
-- 💼 <samp>I’m looking for **Internship/Full-Time(PPO)** Opportunities/roles.
-- 💬 <samp>Ask me about IoT/Arduino/Raspberry-Pi/PHP-Dev/Cloud Architecture
-- 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
-- ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
-</div>
 
 ##
 
 <div>
 <h4><b><samp>Experiences:</samp></b></h4>
-- 👷 <samp>Core Member of IEEE Bombay Section Technical and Professional Committee<br>
-- 👨🏾‍💻 <samp>Embedded IoT Intern at SVA Robotics(Sep,2020 - Oct,2020)<br>
-- 🕵🏻 <samp>Summer Research Intern at National Institute of Technology Raipur, Chhattisgarh(May,2020 - Aug,2020)<br>
-- ☄️ <samp>Girlscript Ireland - Training - Game Development(August,2020)<br>
-- ☁ <samp>30 Days of Google Cloud(Cloud Engnieering Track)<br>
+- 👷 <samp>I have knowledge of Linux and have done many things on Linux.<br>
+- 👨🏾‍💻 <samp>I know how to Setup Mail Server with LDAP<br>
+- 🕵🏻 <samp>I know how to host a website on Apache Server<br>
+- ☄️ <samp>I know how to use Ansible inside Devops.<br>
 </div>
 
 # Education
@@ -55,7 +39,7 @@
     <td>Bachelor of Arts</td>
     <td><a href="http://www.rmlau.ac.in/new/index.aspx">Dr. Ram Manohar Lohia Avadh University</a></td>
     <td>2019</td>
-    <t>64%</td>
+    <td>64%</td>
   </tr>
   <tr>
     <td>Diploma (CSE)</td>
